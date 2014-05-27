@@ -1,5 +1,5 @@
 ## These functions are used to calculate the Inverse of a matrix and
-## store it in cache for later use
+## store it in cache so that it can be called when required
 ## MakeCacheMatrix inputs a matrix object. The value of the x is obtainied by x$get() function
 ## The getInv() function will retrive the Inverse of the matrix from cacheSolve()
 ## the setInv() functions will set the value in cache and can be retrieved using x$getInv() function
